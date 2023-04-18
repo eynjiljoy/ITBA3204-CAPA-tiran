@@ -1,3 +1,4 @@
+![OUT OF SCHOOL YOUTH](https://user-images.githubusercontent.com/113650068/232753434-47759fa5-eb83-4672-a058-f18094e8b367.png)
 # PROJECT TITLE : Out-of-School Children and Youth in the Philippines Through the Years
 
 *This repository is created solely for our final requirement in BAT404-Analytics and Techniques Tools.*
