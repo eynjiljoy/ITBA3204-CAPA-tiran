@@ -1,4 +1,4 @@
-![OUT OF SCHOOL YOUTH](https://user-images.githubusercontent.com/113650068/232753434-47759fa5-eb83-4672-a058-f18094e8b367.png)
+![OUT OF SCHOOL YOUTH](https://user-images.githubusercontent.com/113650068/232759181-420667e7-cffd-4358-982c-fb2a5c16024c.png)
 # PROJECT TITLE : Out-of-School Children and Youth in the Philippines Through the Years
 
 *A project proposal presented to the Faculty of College of Informatics and Computing Sciences, Batangas State University - The National Engineering University, in partial fulfillment of the requirements in the course BAT-404: Analytics Techniques and Tools.*
