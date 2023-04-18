@@ -15,7 +15,7 @@ The analysis on out-of-school children and youth in the Philippines has signific
 ## EXPECTED OUTPUT
 
 ## REFERENCES
-1. https://leverageedu.com/blog/importance-of-education/
-2.https://psa.gov.ph/content/out-school-children-and-youth-philippines-results-2013-functional-literacy-education and#:~:text=Out%2Dof%2Dschool%20children%20is,course%2C%20and%20are%20not%20working.
+[1] https://leverageedu.com/blog/importance-of-education/
+[2]https://psa.gov.ph/content/out-school-children-and-youth-philippines-results-2013-functional-literacy-education and#:~:text=Out%2Dof%2Dschool%20children%20is,course%2C%20and%20are%20not%20working.
 3. https://www.pna.gov.ph/articles/1129909
 4.https://www.ecoleglobale.com/blog/the-lack-of-education-cause-poverty/#:~:text=In%20many%20cases%2C%20education%20is,what%20little%20money%20they%20have.
