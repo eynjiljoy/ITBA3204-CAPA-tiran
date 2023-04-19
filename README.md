@@ -3,6 +3,8 @@
 
 *A project proposal presented to the Faculty of College of Informatics and Computing Sciences, Batangas State University - The National Engineering University, in partial fulfillment of the requirements in the course BAT-404: Analytics Techniques and Tools.*
 
+![profile](https://user-images.githubusercontent.com/113650068/232949736-3c928907-3b39-45a5-9bd2-3be6589be19b.png)
+
 # INTRODUCTION
 Education plays a key role in each of our lives and is essential for every one of us to reach our full potential. It is the process through which we gain the skills, knowledge, information, and understanding required to recognize, appreciate, and uphold the obligations we have to our families, communities, and nation [<sup>[1]</sup>](https://leverageedu.com/blog/importance-of-education/). Dr. Jose Rizal once remarked that "*the youth are the hope of the land.*" The youth of today will be able to support such statement via education.
 
