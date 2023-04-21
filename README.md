@@ -22,6 +22,12 @@ The analysis on out-of-school children and youth in the Philippines has signific
 
 Furthermore, this analysis can contribute to the advancement of Sustainable Development Goal (SDG) 4, “Quality Education”, and Sustainable Development Goal (SDG) 1, “No Poverty”, which has a purpose of ensuring inclusive and equitable quality education and promoting lifelong learning opportunities for all and ending poverty in all its forms everywhere respectively. By providing analytics with comprehensive approach, the analysis can contribute to the ongoing efforts of the policymakers in the Philippines while promoting sustainable development.
 
+The proposed project will specifically aid the following:
+- Students. It will allow them to have thorough understanding of the topic as well as the data presented will help them in their future endeavors.
+- Teachers. They will have a thorough understanding of their students’ personal issues and find ways on helping them to cope up and continue their studies still.
+- Policymakers. The resulting data will serve as their basis in enhancing the policy that they have regarding the out-of-school children and youth.
+- Future researchers. They will be provided with prior knowledge in the proposed topic and the results will provide them with new insights.
+
 ## METHODS
 A systematic method will be used in the gathering, organizing, and analysis of data pertaining to this demographic in order to examine the current conditions of 'out-of-school' children and youth, as well as the issues and the sources of the issues. Finding patterns, trends, and insights that can guide decisions and the creation of successful interventions to support out-of-school children and youth will be very helpful. 
 
