@@ -1,0 +1,203 @@
+ISO3,Countries and areas,Region,Sub-region,Development Regions,Total,Female,Male,Rural_Residence,Urban_Residence,Poorest_Wealth quintile,Second_Wealth quintile,Middle_Wealth quintile,Fourth_Wealth quintile,Richest_Wealth quintile,Data source,Time period
+AFG,Afghanistan,SA,SA,Least Developed,40,56,25,46,23,50,48,49,33,21,DHS 2015,2015
+ALB,Albania,ECA,EECA,More Developed,2,2,2,2,2,4,2,2,1,1,DHS 2017-18,2018
+DZA,Algeria,MENA,MENA,Less Developed,6,6,5,8,4,12,6,5,3,2,MICS 2012-13,2013
+AND,Andorra,ECA,WE,More Developed,,,,,,,,,,,,
+AGO,Angola,SSA,ESA,Least Developed,15,17,14,28,10,31,26,16,6,4,DHS 2015-16,2016
+AIA,Anguilla,LAC,LAC,Not Classified,,,,,,,,,,,,
+ATG,Antigua and Barbuda,LAC,LAC,Less Developed,,,,,,,,,,,,
+ARG,Argentina,LAC,LAC,Less Developed,2,2,2,,,4,3,0,0,1,MICS 2011-12,2012
+ARM,Armenia,ECA,EECA,Less Developed,1,1,1,0,1,1,1,2,0,0,DHS 2015-16,2016
+AUS,Australia,EAP,EAP,More Developed,,,,,,,,,,,,
+AUT,Austria,ECA,WE,More Developed,,,,,,,,,,,,
+AZE,Azerbaijan,ECA,EECA,Less Developed,,,,,,,,,,,,
+BHS,Bahamas,LAC,LAC,Less Developed,,,,,,,,,,,,
+BHR,Bahrain,MENA,MENA,Less Developed,,,,,,,,,,,,
+BGD,Bangladesh,SA,SA,Least Developed,13,8,18,13,12,19,15,11,11,7,MICS 2019,2019
+BRB,Barbados,LAC,LAC,Less Developed,1,1,1,1,1,0,1,2,2,0,MICS 2012,2012
+BLR,Belarus,ECA,EECA,More Developed,0,0,0,0,0,0,1,0,0,0,MICS 2012,2012
+BEL,Belgium,ECA,WE,More Developed,,,,,,,,,,,,
+BLZ,Belize,LAC,LAC,Less Developed,9,9,10,12,4,15,13,9,4,2,MICS 2015-16,2016
+BEN,Benin,SSA,WCA,Least Developed,41,47,36,48,31,65,52,42,31,18,DHS 2017-18,2018
+BTN,Bhutan,SA,SA,Least Developed,19,18,20,23,10,35,25,18,10,11,MICS 2010,2010
+BOL,Bolivia (Plurinational State of),LAC,LAC,Less Developed,,,,,,,,,,,,
+BIH,Bosnia and Herzegovina,ECA,EECA,More Developed,1,1,1,1,1,4,0,1,0,0,MICS 2011-12,2012
+BWA,Botswana,SSA,ESA,Less Developed,4,5,4,7,3,,,,,,Botswana Demographic Survey 2017,2017
+BRA,Brazil,LAC,LAC,Less Developed,1,1,1,1,1,1,1,1,0,0,PNAD 2019,2019
+VGB,British Virgin Islands,LAC,LAC,Not Classified,,,,,,,,,,,,
+BRN,Brunei Darussalam,EAP,EAP,Less Developed,,,,,,,,,,,,
+BGR,Bulgaria,ECA,EECA,More Developed,,,,,,,,,,,,
+BFA,Burkina Faso,SSA,WCA,Least Developed,57,59,56,65,31,77,67,62,49,32,DHS 2010,2010
+BDI,Burundi,SSA,ESA,Least Developed,29,28,31,31,20,49,35,26,20,22,DHS 2016-17,2017
+CPV,Cabo Verde,SSA,WCA,Less Developed,,,,,,,,,,,,
+KHM,Cambodia,EAP,EAP,Least Developed,25,25,26,26,20,40,29,24,17,15,DHS 2014,2014
+CMR,Cameroon,SSA,WCA,Less Developed,19,22,16,28,10,40,27,16,10,5,DHS 2018,2018
+CAN,Canada,NA,NA,More Developed,,,,,,,,,,,,
+CAF,Central African Republic,SSA,WCA,Least Developed,32,43,20,41,21,52,44,38,25,15,MICS 2010,2010
+TCD,Chad,SSA,WCA,Least Developed,42,49,36,49,21,50,48,49,49,17,DHS 2014-15,2015
+CHL,Chile,LAC,LAC,Less Developed,1,1,0,0,1,,,,,,CASEN 2017,2017
+CHN,China,EAP,EAP,Less Developed,3,3,3,4,3,,,,,,National Population Sample Survey 2015,2015
+COL,Colombia,LAC,LAC,Less Developed,4,3,4,6,3,8,3,3,1,1,DHS 2015,2015
+COM,Comoros,SSA,ESA,Least Developed,14,14,15,16,11,27,16,13,9,8,DHS 2012,2012
+COG,Congo,SSA,WCA,Less Developed,7,8,6,10,5,14,10,8,2,2,MICS 2014-15,2015
+COK,Cook Islands,EAP,EAP,Less Developed,,,,,,,,,,,,
+CRI,Costa Rica,LAC,LAC,Less Developed,3,3,2,3,2,4,2,3,3,0,MICS 2018,2018
+CIV,Côte d'Ivoire,SSA,WCA,Less Developed,33,38,27,40,26,50,37,33,25,22,MICS 2016,2016
+HRV,Croatia,ECA,EECA,More Developed,,,,,,,,,,,,
+CUB,Cuba,LAC,LAC,Less Developed,,,,,,,,,,,,
+CYP,Cyprus,ECA,WE,More Developed,,,,,,,,,,,,
+CZE,Czechia,ECA,WE,More Developed,,,,,,,,,,,,
+PRK,Democratic People's Republic of Korea,EAP,EAP,Less Developed,0,0,0,0,0,,,,,,MICS 2017,2017
+COD,Democratic Republic of the Congo,SSA,WCA,Least Developed,17,18,16,21,12,28,17,17,16,8,MICS 2017-18,2018
+DNK,Denmark,ECA,WE,More Developed,,,,,,,,,,,,
+DJI,Djibouti,SSA,ESA,Least Developed,,,,,,,,,,,,
+DMA,Dominica,LAC,LAC,Less Developed,,,,,,,,,,,,
+DOM,Dominican Republic,LAC,LAC,Less Developed,3,3,4,2,4,7,4,2,2,1,MICS 2014,2014
+ECU,Ecuador,LAC,LAC,Less Developed,6,5,7,8,5,,,,,,GEPH-ENEMDU-DICIEMBRE - 2019,2019
+EGY,Egypt,MENA,MENA,Less Developed,10,10,10,11,8,15,13,9,9,2,DHS 2014,2014
+SLV,El Salvador,LAC,LAC,Less Developed,15,15,14,20,11,28,17,10,7,6,MICS 2014,2014
+GNQ,Equatorial Guinea,SSA,WCA,Less Developed,,,,,,,,,,,,
+ERI,Eritrea,SSA,ESA,Least Developed,,,,,,,,,,,,
+EST,Estonia,ECA,WE,More Developed,,,,,,,,,,,,
+SWZ,Eswatini,SSA,ESA,Less Developed,4,4,5,4,5,6,3,3,7,4,MICS 2014,2014
+ETH,Ethiopia,SSA,ESA,Least Developed,31,31,30,33,22,48,40,28,24,20,DHS 2016,2016
+FJI,Fiji,EAP,EAP,Less Developed,,,,,,,,,,,,
+FIN,Finland,ECA,WE,More Developed,,,,,,,,,,,,
+FRA,France,ECA,WE,More Developed,,,,,,,,,,,,
+GAB,Gabon,SSA,WCA,Less Developed,3,3,4,5,3,7,4,4,2,1,DHS 2012,2012
+GMB,Gambia,SSA,WCA,Least Developed,33,35,30,45,23,43,42,44,24,12,DHS 2013,2013
+GEO,Georgia,ECA,EECA,Less Developed,1,1,2,1,1,2,0,1,2,0,MICS 2018,2018
+DEU,Germany,ECA,WE,More Developed,,,,,,,,,,,,
+GHA,Ghana,SSA,WCA,Less Developed,7,6,8,8,6,15,6,6,4,3,MICS 2017-18,2018
+GRC,Greece,ECA,WE,More Developed,,,,,,,,,,,,
+GRD,Grenada,LAC,LAC,Less Developed,,,,,,,,,,,,
+GTM,Guatemala,LAC,LAC,Less Developed,29,34,24,36,18,46,41,30,14,5,DHS 2014-15,2015
+GIN,Guinea,SSA,WCA,Least Developed,46,54,38,62,26,72,59,57,39,20,DHS 2018,2018
+GNB,Guinea-Bissau,SSA,WCA,Least Developed,23,26,20,27,18,28,26,27,20,16,MICS 2018-19,2019
+GUY,Guyana,LAC,LAC,Less Developed,7,6,8,8,4,12,6,7,4,4,MICS 2014,2014
+HTI,Haiti,LAC,LAC,Least Developed,6,5,7,8,3,14,7,3,3,3,DHS 2016-17,2017
+VAT,Holy See,ECA,WE,Not Classified,,,,,,,,,,,,
+HND,Honduras,LAC,LAC,Less Developed,26,22,30,35,15,37,29,23,13,16,Encuesta Permanente de Hogares 2018,2018
+HUN,Hungary,ECA,WE,More Developed,,,,,,,,,,,,
+ISL,Iceland,ECA,WE,More Developed,,,,,,,,,,,,
+IND,India,SA,SA,Less Developed,7,8,7,8,6,15,7,5,3,1,DHS 2015-16,2016
+IDN,Indonesia,EAP,EAP,Less Developed,7,6,8,9,5,11,8,6,5,3,National Socio-Economic Survey 2018,2018
+IRN,Iran (Islamic Republic of),MENA,MENA,Less Developed,,,,,,,,,,,,
+IRQ,Iraq,MENA,MENA,Less Developed,21,28,15,30,17,36,24,19,13,11,MICS 2018,2018
+IRL,Ireland,ECA,WE,More Developed,,,,,,,,,,,,
+ISR,Israel,MENA,MENA,More Developed,,,,,,,,,,,,
+ITA,Italy,ECA,WE,More Developed,,,,,,,,,,,,
+JAM,Jamaica,LAC,LAC,Less Developed,1,1,1,1,0,2,1,0,0,0,MICS 2011,2011
+JPN,Japan,EAP,EAP,More Developed,,,,,,,,,,,,
+JOR,Jordan,MENA,MENA,Less Developed,5,5,6,5,5,13,6,3,2,2,DHS 2017-18,2018
+KAZ,Kazakhstan,ECA,EECA,Less Developed,0,0,0,0,0,0,0,0,0,0,MICS 2015,2015
+KEN,Kenya,SSA,ESA,Less Developed,3,3,3,4,2,10,2,1,1,1,DHS 2014,2014
+KIR,Kiribati,EAP,EAP,Least Developed,10,5,15,11,9,16,11,11,9,3,MICS 2018-19,2019
+KWT,Kuwait,MENA,MENA,Less Developed,,,,,,,,,,,,
+KGZ,Kyrgyzstan,ECA,EECA,Less Developed,1,1,2,1,1,2,1,2,1,1,MICS 2018,2018
+LAO,Lao People's Democratic Republic,EAP,EAP,Least Developed,20,22,18,22,15,32,20,18,12,13,MICS 2017,2017
+LVA,Latvia,ECA,WE,More Developed,,,,,,,,,,,,
+LBN,Lebanon,MENA,MENA,Less Developed,,,,,,,,,,,,
+LSO,Lesotho,SSA,ESA,Least Developed,14,9,19,18,7,23,20,13,6,5,MICS 2018,2018
+LBR,Liberia,SSA,WCA,Least Developed,20,18,21,29,14,38,24,21,15,9,DHS 2013,2013
+LBY,Libya,MENA,MENA,Less Developed,,,,,,,,,,,,
+LIE,Liechtenstein,ECA,WE,More Developed,,,,,,,,,,,,
+LTU,Lithuania,ECA,WE,More Developed,,,,,,,,,,,,
+LUX,Luxembourg,ECA,WE,More Developed,,,,,,,,,,,,
+MDG,Madagascar,SSA,ESA,Least Developed,36,33,38,40,21,61,47,32,24,12,MICS 2018,2018
+MWI,Malawi,SSA,ESA,Least Developed,8,8,8,8,5,14,9,8,6,4,DHS 2015-16,2016
+MYS,Malaysia,EAP,EAP,Less Developed,,,,,,,,,,,,
+MDV,Maldives,SA,SA,Less Developed,4,4,4,6,0,6,6,4,2,0,DHS 2016-17,2017
+MLI,Mali,SSA,WCA,Least Developed,59,63,55,68,32,83,77,67,51,29,MICS 2015,2015
+MLT,Malta,ECA,WE,More Developed,,,,,,,,,,,,
+MHL,Marshall Islands,EAP,EAP,Less Developed,,,,,,,,,,,,
+MRT,Mauritania,SSA,WCA,Least Developed,41,42,40,52,28,62,51,40,31,17,MICS 2015,2015
+MUS,Mauritius,SSA,ESA,Less Developed,,,,,,,,,,,,
+MEX,Mexico,LAC,LAC,Less Developed,6,5,7,9,5,,,,,,ENIGH 2018,2018
+FSM,Micronesia (Federated States of),EAP,EAP,Less Developed,,,,,,,,,,,,
+MCO,Monaco,ECA,WE,More Developed,,,,,,,,,,,,
+MNG,Mongolia,EAP,EAP,Less Developed,4,3,5,4,4,6,3,5,3,5,MICS 2018,2018
+MNE,Montenegro,ECA,EECA,More Developed,1,2,1,3,0,6,0,0,0,0,MICS 2018,2018
+MSR,Montserrat,LAC,LAC,Not Classified,,,,,,,,,,,,
+MAR,Morocco,MENA,MENA,Less Developed,,,,,,,,,,,,
+MOZ,Mozambique,SSA,ESA,Least Developed,33,38,28,41,19,50,49,38,27,13,DHS 2011,2011
+MMR,Myanmar,EAP,EAP,Least Developed,17,17,16,19,10,30,18,15,9,6,DHS 2015-16,2016
+NAM,Namibia,SSA,ESA,Less Developed,12,12,11,13,10,16,16,9,13,3,DHS 2013,2013
+NRU,Nauru,EAP,EAP,Less Developed,,,,,,,,,,,,
+NPL,Nepal,SA,SA,Least Developed,4,4,4,5,4,6,7,4,2,1,MICS 2019,2019
+NLD,Netherlands,ECA,WE,More Developed,,,,,,,,,,,,
+NZL,New Zealand,EAP,EAP,More Developed,,,,,,,,,,,,
+NIC,Nicaragua,LAC,LAC,Less Developed,,,,,,,,,,,,
+NER,Niger,SSA,WCA,Least Developed,70,73,67,79,37,90,80,80,72,41,DHS 2012,2012
+NGA,Nigeria,SSA,WCA,Less Developed,27,29,25,39,11,68,34,17,7,5,DHS 2018,2018
+NIU,Niue,EAP,EAP,Less Developed,,,,,,,,,,,,
+MKD,North Macedonia,ECA,EECA,More Developed,2,2,1,0,3,4,3,0,0,0,MICS 2018-19,2019
+NOR,Norway,ECA,WE,More Developed,,,,,,,,,,,,
+OMN,Oman,MENA,MENA,Less Developed,,,,,,,,,,,,
+PAK,Pakistan,SA,SA,Less Developed,27,32,22,31,18,55,31,19,15,7,DHS 2017-18,2018
+PLW,Palau,EAP,EAP,Less Developed,,,,,,,,,,,,
+PAN,Panama,LAC,LAC,Less Developed,4,3,4,7,2,9,4,3,0,1,MICS 2013,2013
+PNG,Papua New Guinea,EAP,EAP,Less Developed,,,,,,,,,,,,
+PRY,Paraguay,LAC,LAC,Less Developed,8,7,9,11,5,13,7,6,3,3,Encuesta Permanente de Hogares 2017,2017
+PER,Peru,LAC,LAC,Less Developed,7,7,7,9,6,13,7,6,4,3,DHS 2012,2012
+PHL,Philippines,EAP,EAP,Less Developed,4,3,5,4,4,9,5,2,2,2,DHS 2017,2017
+POL,Poland,ECA,WE,More Developed,,,,,,,,,,,,
+PRT,Portugal,ECA,WE,More Developed,,,,,,,,,,,,
+QAT,Qatar,MENA,MENA,Less Developed,3,3,2,,,,,,,,MICS 2012,2012
+KOR,Republic of Korea,EAP,EAP,Less Developed,,,,,,,,,,,,
+MDA,Republic of Moldova,ECA,EECA,More Developed,3,1,4,2,3,8,3,2,1,1,MICS 2012,2012
+ROU,Romania,ECA,EECA,More Developed,10,10,10,,,,,,,,Institute of Educational Sciences and UNICEF 2015-2016,2016
+RUS,Russian Federation,ECA,EECA,More Developed,,,,,,,,,,,,
+RWA,Rwanda,SSA,ESA,Least Developed,26,26,26,26,24,34,29,24,21,24,DHS 2014-15,2015
+KNA,Saint Kitts and Nevis,LAC,LAC,Less Developed,,,,,,,,,,,,
+LCA,Saint Lucia,LAC,LAC,Less Developed,1,1,1,1,1,0,2,2,0,1,MICS 2012,2012
+VCT,Saint Vincent and the Grenadines,LAC,LAC,Less Developed,,,,,,,,,,,,
+WSM,Samoa,EAP,EAP,Less Developed,,,,,,,,,,,,
+SMR,San Marino,ECA,WE,More Developed,,,,,,,,,,,,
+STP,Sao Tome and Principe,SSA,WCA,Least Developed,8,7,9,11,7,15,12,6,7,2,MICS 2014,2014
+SAU,Saudi Arabia,MENA,MENA,Less Developed,,,,,,,,,,,,
+SEN,Senegal,SSA,WCA,Least Developed,39,36,42,50,25,57,47,39,34,17,DHS 2019,2019
+SRB,Serbia,ECA,EECA,More Developed,1,1,1,2,0,5,0,0,0,0,MICS 2014,2014
+SYC,Seychelles,SSA,ESA,Less Developed,,,,,,,,,,,,
+SLE,Sierra Leone,SSA,WCA,Least Developed,19,18,20,29,8,39,29,17,10,7,MICS 2017,2017
+SGP,Singapore,EAP,EAP,Less Developed,,,,,,,,,,,,
+SVK,Slovakia,ECA,WE,More Developed,,,,,,,,,,,,
+SVN,Slovenia,ECA,WE,More Developed,,,,,,,,,,,,
+SLB,Solomon Islands,EAP,EAP,Least Developed,,,,,,,,,,,,
+SOM,Somalia,SSA,ESA,Least Developed,,,,,,,,,,,,
+ZAF,South Africa,SSA,ESA,Less Developed,5,4,6,5,6,9,6,3,4,2,DHS 2016,2016
+SSD,South Sudan,SSA,ESA,Least Developed,63,67,59,69,44,85,74,67,55,34,MICS 2010,2010
+ESP,Spain,ECA,WE,More Developed,,,,,,,,,,,,
+LKA,Sri Lanka,SA,SA,Less Developed,1,1,1,1,1,2,1,0,0,0,DHS 2016,2016
+PSE,State of Palestine,MENA,MENA,Less Developed,5,2,8,6,5,6,5,7,4,2,MICS 2014,2014
+SDN,Sudan,SSA,ESA,Least Developed,21,25,16,26,8,33,31,22,11,3,MICS 2014,2014
+SUR,Suriname,LAC,LAC,Less Developed,7,6,8,11,5,14,7,4,2,3,MICS 2018,2018
+SWE,Sweden,ECA,WE,More Developed,,,,,,,,,,,,
+CHE,Switzerland,ECA,WE,More Developed,,,,,,,,,,,,
+SYR,Syrian Arab Republic,MENA,MENA,Less Developed,,,,,,,,,,,,
+TJK,Tajikistan,ECA,EECA,Less Developed,3,4,1,3,2,4,3,2,2,2,DHS 2017,2017
+THA,Thailand,EAP,EAP,Less Developed,3,2,5,4,3,7,3,5,1,1,MICS 2019,2019
+TLS,Timor-Leste,EAP,EAP,Least Developed,9,8,10,10,5,16,11,8,5,3,DHS 2016,2016
+TGO,Togo,SSA,WCA,Least Developed,12,14,10,14,10,20,14,9,7,10,MICS 2017,2017
+TKL,Tokelau,EAP,EAP,Not Classified,,,,,,,,,,,,
+TON,Tonga,EAP,EAP,Less Developed,11,8,14,12,8,18,15,10,5,5,MICS 2019,2019
+TTO,Trinidad and Tobago,LAC,LAC,Less Developed,2,3,2,2,2,4,2,2,2,1,MICS 2011,2011
+TUN,Tunisia,MENA,MENA,Less Developed,7,7,7,12,5,14,9,5,4,3,MICS 2018,2018
+TUR,Turkey,ECA,EECA,Less Developed,3,3,2,3,2,6,2,1,2,0,DHS style 2013,2013
+TKM,Turkmenistan,ECA,EECA,Less Developed,0,0,0,0,0,1,0,0,0,0,MICS 2015-16,2016
+TCA,Turks and Caicos Islands,LAC,LAC,Not Classified,,,,,,,,,,,,
+TUV,Tuvalu,EAP,EAP,Least Developed,,,,,,,,,,,,
+UGA,Uganda,SSA,ESA,Least Developed,23,23,22,23,24,29,22,21,19,25,DHS 2016,2016
+UKR,Ukraine,ECA,EECA,More Developed,1,1,1,0,1,0,1,1,0,2,MICS 2012,2012
+ARE,United Arab Emirates,MENA,MENA,Less Developed,,,,,,,,,,,,
+GBR,United Kingdom,ECA,WE,More Developed,,,,,,,,,,,,
+TZA,United Republic of Tanzania,SSA,ESA,Least Developed,57,58,56,62,46,77,67,61,44,44,DHS 2015-16,2016
+USA,United States,NA,NA,More Developed,,,,,,,,,,,,
+URY,Uruguay,LAC,LAC,Less Developed,9,11,7,9,9,8,2,7,21,1,MICS 2012-13,2013
+UZB,Uzbekistan,ECA,EECA,Less Developed,,,,,,,,,,,,
+VUT,Vanuatu,EAP,EAP,Least Developed,,,,,,,,,,,,
+VEN,Venezuela (Bolivarian Republic of),LAC,LAC,Less Developed,,,,,,,,,,,,
+VNM,Viet Nam,EAP,EAP,Less Developed,6,6,6,7,3,16,5,3,2,1,MICS 2014,2014
+YEM,Yemen,MENA,MENA,Least Developed,22,32,12,27,8,45,27,19,12,4,DHS 2013,2013
+ZMB,Zambia,SSA,ESA,Least Developed,23,27,20,29,14,42,32,23,17,9,DHS 2018,2018
+ZWE,Zimbabwe,SSA,ESA,Less Developed,19,16,22,22,9,28,24,16,14,5,MICS 2019,2019
