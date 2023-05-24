@@ -49,3 +49,8 @@ The purpose of this project is to obtain understanding of the scope, root causes
 [5.] https://humanjourney.us/health-and-education-in-the-modern-world-section/education-in-the-developing-world/
 
 [6.] https://www.ecoleglobale.com/blog/the-lack-of-education-cause-poverty/#:~:text=In%20many%20cases%2C%20education%20is,what%20little%20money%20they%20have.
+
+[7.] https://www.undp.org/sustainable-development-goals?gclid=CjwKCAjw67ajBhAVEiwA2g_jEMVpEdLBxdl3JefQHhPj1pHo6i1l9EbllRV9txGAVu4YSHkg5_QhCRoCRWQQAvD_BwE
+
+DATASET SOURCE:
+[8.] https://www.kaggle.com/datasets/komalkhetlani/out-of-school-rates-global-data
