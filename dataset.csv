@@ -1,0 +1,109 @@
+Countries,Region,Status,Total,Female,Male,Year
+Afghanistan,SA,Least Developed,272,176,96,2015
+Albania,ECA,More Developed,125,77,48,2018
+Algeria,MENA,Less Developed,131,81,50,2013
+Angola,SSA,Least Developed,190,112,78,2016
+Argentina,LAC,Less Developed,123,76,47,2012
+Armenia,ECA,Less Developed,127,78,49,2016
+Bangladesh,SA,Least Developed,155,86,69,2019
+Barbados,LAC,Less Developed,119,75,44,2012
+Belarus,ECA,More Developed,117,73,44,2012
+Belize,LAC,Less Developed,139,84,55,2016
+Benin,SSA,Least Developed,262,155,107,2018
+Bhutan,SA,Least Developed,170,98,72,2010
+Bosnia and Herzegovina,ECA,More Developed,124,78,46,2012
+Botswana,SSA,Less Developed,127,79,48,2017
+Brazil,LAC,Less Developed,119,74,45,2019
+Burkina Faso,SSA,Least Developed,327,182,145,2010
+Burundi,SSA,Least Developed,211,119,92,2017
+Cambodia,EAP,Least Developed,179,103,76,2014
+Cameroon,SSA,Less Developed,185,112,73,2018
+Central African Republic,SSA,Least Developed,231,147,84,2010
+Chad,SSA,Least Developed,301,175,126,2015
+Chile,LAC,Less Developed,120,75,45,2017
+China,EAP,Less Developed,132,81,51,2015
+Colombia,LAC,Less Developed,127,78,49,2015
+Comoros,SSA,Least Developed,174,102,72,2012
+Congo,SSA,Less Developed,136,84,52,2015
+Costa Rica,LAC,Less Developed,123,77,46,2018
+Côte d'Ivoire,SSA,Less Developed,228,137,91,2016
+Democratic People's Republic of Korea,EAP,Less Developed,122,76,46,2017
+Democratic Republic of the Congo,SSA,Least Developed,193,113,80,2018
+Dominican Republic,LAC,Less Developed,129,78,51,2014
+Ecuador,LAC,Less Developed,131,80,51,2019
+Egypt,MENA,Less Developed,142,86,56,2014
+El Salvador,LAC,Less Developed,152,91,61,2014
+Eswatini,SSA,Less Developed,128,78,50,2014
+Ethiopia,SSA,Least Developed,228,129,99,2016
+Gabon,SSA,Less Developed,130,79,51,2012
+Gambia,SSA,Least Developed,236,135,101,2013
+Georgia,ECA,Less Developed,121,75,46,2018
+Ghana,SSA,Less Developed,143,85,58,2018
+Guatemala,LAC,Less Developed,185,113,72,2015
+Guinea,SSA,Least Developed,276,164,112,2018
+Guinea-Bissau,SSA,Least Developed,217,125,92,2019
+Guyana,LAC,Less Developed,132,80,52,2014
+Haiti,LAC,Least Developed,145,86,59,2017
+Honduras,LAC,Less Developed,181,101,80,2018
+India,SA,Less Developed,143,87,56,2016
+Indonesia,EAP,Less Developed,132,80,52,2018
+Iraq,MENA,Less Developed,176,111,65,2018
+Jamaica,LAC,Less Developed,119,74,45,2011
+Jordan,MENA,Less Developed,132,80,52,2018
+Kazakhstan,ECA,Less Developed,116,73,43,2015
+Kenya,SSA,Less Developed,132,81,51,2014
+Kiribati,EAP,Least Developed,142,80,62,2019
+Kyrgyzstan,ECA,Less Developed,121,75,46,2018
+Lao People's Democratic Republic,EAP,Least Developed,172,103,69,2017
+Lesotho,SSA,Least Developed,150,84,66,2018
+Liberia,SSA,Least Developed,190,108,82,2013
+Madagascar,SSA,Least Developed,230,125,105,2018
+Malawi,SSA,Least Developed,143,86,57,2016
+Maldives,SA,Less Developed,126,78,48,2017
+Mali,SSA,Least Developed,329,186,143,2015
+Mauritania,SSA,Least Developed,282,155,127,2015
+Mexico,LAC,Less Developed,130,79,51,2018
+Mongolia,EAP,Less Developed,132,79,53,2018
+Montenegro,ECA,More Developed,126,78,48,2018
+Mozambique,SSA,Least Developed,228,134,94,2011
+Myanmar,EAP,Least Developed,161,97,64,2016
+Namibia,SSA,Less Developed,148,89,59,2013
+Nepal,SA,Least Developed,129,79,50,2019
+Niger,SSA,Least Developed,268,153,115,2012
+Nigeria,SSA,Less Developed,269,156,113,2018
+North Macedonia,ECA,More Developed,175,104,71,2019
+Pakistan,SA,Less Developed,173,106,67,2018
+Panama,LAC,Less Developed,128,78,50,2013
+Paraguay,LAC,Less Developed,178,107,71,2017
+Peru,LAC,Less Developed,132,81,51,2012
+Philippines,EAP,Less Developed,126,77,49,2017
+Qatar,MENA,Less Developed,126,78,48,2012
+Republic of Moldova,ECA,More Developed,126,76,50,2012
+Rwanda,SSA,Least Developed,141,85,56,2015
+Saint Lucia,LAC,Less Developed,170,100,70,2012
+Sao Tome and Principe,SSA,Least Developed,135,83,52,2014
+Senegal,SSA,Least Developed,143,84,59,2019
+Serbia,ECA,More Developed,195,110,85,2014
+Sierra Leone,SSA,Least Developed,125,77,48,2017
+South Africa,SSA,Less Developed,232,129,103,2016
+South Sudan,SSA,Least Developed,127,77,50,2010
+Sri Lanka,SA,Less Developed,277,155,122,2016
+State of Palestine,MENA,Less Developed,120,75,45,2014
+Sudan,SSA,Least Developed,271,150,121,2014
+Suriname,LAC,Less Developed,161,100,61,2018
+Tajikistan,ECA,Less Developed,132,80,52,2017
+Thailand,EAP,Less Developed,162,98,64,2019
+Timor-Leste,EAP,Least Developed,128,77,51,2016
+Togo,SSA,Least Developed,138,83,55,2017
+Tonga,EAP,Less Developed,142,88,54,2019
+Trinidad and Tobago,LAC,Less Developed,157,90,67,2011
+Tunisia,MENA,Less Developed,138,85,53,2018
+Turkmenistan,ECA,Less Developed,138,84,54,2016
+Uganda,SSA,Least Developed,123,77,46,2016
+Ukraine,ECA,More Developed,122,76,46,2012
+United Republic of Tanzania,SSA,Least Developed,169,99,70,2016
+Uruguay,LAC,Less Developed,121,76,45,2013
+Viet Nam,EAP,Less Developed,247,139,108,2014
+Yemen,MENA,Least Developed,138,86,52,2013
+Zambia,SSA,Least Developed,160,93,67,2018
+Zimbabwe,SSA,Less Developed,162,106,56,2019
