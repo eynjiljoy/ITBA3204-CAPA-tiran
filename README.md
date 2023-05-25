@@ -38,7 +38,7 @@ Additionally, the Python programming language will be used by the proponents to 
 The purpose of this project is to obtain understanding of the scope, root causes, and effects of the problem in order to inform evidence-based plans and interventions aimed at removing or drastically lowering the number of youths who are not in school. The government can use the conclusions and suggestions as a foundation for developing evidence-based policies and programs, advocating for funding, and putting into practice focused initiatives to effectively stop or minimize the problem. The government may work to guarantee that all youth have access to high-quality education by using data to inform decision-making, which will help to promote their social and personal growth as well as the general advancement of the nation.
 
 ## REFERENCES
-[1.] 
+[1.] https://leverageedu.com/blog/importance-of-education/
 
 [2.] https://www.pna.gov.ph/articles/1129909#:~:text=Under%20the%20bill%2C%20OSY%20refers,or%20a%20post%2Dsecondary%20course.
 
