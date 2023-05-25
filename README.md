@@ -1,7 +1,7 @@
 ![title](https://github.com/eynjiljoy/ITBA3204-CAPA-tiran/assets/113650068/d0c7473b-42bb-43d2-ab0f-1ecf40243df5)
 # PROJECT TITLE : Mapping the Margins: An In-depth Analysis of Out-of-School Youth Worldwide
 
-*A project proposal presented to the Faculty of College of Informatics and Computing Sciences, Batangas State University - The National Engineering University, in partial fulfillment of the requirements in the course BAT-404: Analytics Techniques and Tools.*
+*A Project Proposal Presented to the Faculty of College of Informatics and Computing Sciences, Batangas State University - The National Engineering University, In Partial Fulfillment of the Requirements in the Course BAT-404: Analytics Techniques and Tools.*
 
 ![group profile](https://github.com/eynjiljoy/ITBA3204-CAPA-tiran/assets/113650068/dc0e959d-9fd1-49a5-b0a3-46b3db010970)
 
