@@ -54,3 +54,5 @@ The purpose of this project is to obtain understanding of the scope, root causes
 
 DATASET SOURCE:
 [8.] https://www.kaggle.com/datasets/komalkhetlani/out-of-school-rates-global-data
+
+VIDEO BACKGROUND IMAGE: [9.] https://www.google.com/imgres?imgurl=http%3A%2F%2Fthe-post-assets.sgp1.digitaloceanspaces.com%2F2020%2F09%2FBATANGAS-STATE-UNIVERSITY.jpg&tbnid=A8btrkGvQjrs_M&vet=1&imgrefurl=https%3A%2F%2Fthepost.net.ph%2Fnews%2Fcampus%2Fbatangas-state-university-computer-science-program-receives-intl-accreditation%2F&docid=7Xgz-t67-bb4jM&w=1200&h=800&hl=en-US&source=sh%2Fx%2Fim%2F4
